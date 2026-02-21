@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">💻 DSA enthusiast with  C++ fundamentals<br>🚀 Exploring the Full-stack Development <br>📈 Growing through practical learning<br>💡 Passionate about problem solving</h3>
+<p align="left">💻 DSA enthusiast with  C++ fundamentals<br>🚀 Exploring the Full-stack Development <br>📈 Growing through practical learning<br>💡 Passionate about problem solving</p>
 
 ###
 
